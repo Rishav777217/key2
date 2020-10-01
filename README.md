@@ -4,6 +4,6 @@ This keylogger can intercept and store keys pressed by user in an encrypted form
 
 # Use
 
-Change email address and password to actual email and its password in send_mail.h
+Change email address and password to actual E-mail and its password in send_mail.h
 
 Directory where files are stored --> C:\Users\\\<user\>\AppData\Roaming\Microsoft\CLR
